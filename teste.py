@@ -1,1 +1,1 @@
-print("meu deus python")
+print("meu deus python")asdasdasd
